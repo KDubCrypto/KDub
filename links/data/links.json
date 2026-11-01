@@ -1,0 +1,52 @@
+{
+ "links": [
+  {
+   "id": "linkedin",
+   "label": "LinkedIn",
+   "sub": "Where I post most",
+   "url": "https://www.linkedin.com/in/kylewhitepr/"
+  },
+  {
+   "id": "site",
+   "label": "Kyle White, VC",
+   "sub": "Track record and background",
+   "url": "https://kylewhitevc.github.io/"
+  },
+  {
+   "id": "speaking",
+   "label": "Speaking",
+   "sub": "Talks, panels and podcasts",
+   "url": "https://kylewhitevc.github.io/#speaking"
+  },
+  {
+   "id": "cointelegraph",
+   "label": "Cointelegraph",
+   "sub": "My bylines",
+   "url": "https://cointelegraph.com/authors/kyle-white"
+  },
+  {
+   "id": "press",
+   "label": "Press",
+   "sub": "Every story, on Muck Rack",
+   "url": "https://muckrack.com/kyle-white-crypto"
+  }
+ ],
+ "stats": [
+  {
+   "n": "15K",
+   "l": "LinkedIn followers"
+  },
+  {
+   "n": "60",
+   "l": "Investments"
+  },
+  {
+   "n": "$125M",
+   "l": "Follow-on funding"
+  },
+  {
+   "n": "70",
+   "l": "VC partners"
+  }
+ ]
+}
